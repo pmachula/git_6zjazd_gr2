@@ -1,3 +1,16 @@
 p {
     background-color: yellowgreen
 }
+
+body {
+    text-align: center; 
+    background-color: lightblue;
+}
+
+li {
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    border-bottom: black dotted
+}
+
