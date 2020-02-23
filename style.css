@@ -1,5 +1,6 @@
 p {
-    background-color: royalblue;
+    background-color: darkblue;
+    color: white
 }
 
 li {
@@ -16,5 +17,9 @@ li {
     color: black;
 }
 .branches p {
-    background-color: red;
+    background-color: darkred;
+}
+
+body {
+    background-color: darkslategrey; 
 }
