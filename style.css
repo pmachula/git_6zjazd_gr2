@@ -1,16 +1,20 @@
 p {
-    background-color: yellowgreen
-}
-
-body {
-    text-align: center; 
-    background-color: lightblue;
+    background-color: royalblue;
 }
 
 li {
-    background-color: royalblue; 
-    color: white;
-    font-size: 20px;
-    border-bottom: black dotted
+    color:darkgrey;
 }
 
+.branches{
+    font-size: 25px;
+    margin: 2px solid;
+    color: black
+}
+
+.branches li{
+    color: black;
+}
+.branches p {
+    background-color: red;
+}
